@@ -27,3 +27,4 @@ tgCrypto
 xattr
 yt-dlp
 gdown
+directory-tree
